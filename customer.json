@@ -1,0 +1,8 @@
+{
+    "Customer":{
+        "name":"John",
+        "id":"12345",
+        "amount":"12500",
+        "paymentType":"netbanking"
+    }
+}
